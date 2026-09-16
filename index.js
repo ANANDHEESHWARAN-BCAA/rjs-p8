@@ -35,7 +35,7 @@ function Recipe() {
           style={{ width: "100%", height: "180px", objectFit: "cover" }}
         />
         <div style={{ padding: "15px", background: "#ffd6c9" }}>
-          <h2>Chicken Noodle Soup</h2>
+          <h2>chicken noodles soup</h2>
           <ul>
             <li>2 tablespoons extra virgin olive oil</li>
                 <li>1 yellow onion</li>
